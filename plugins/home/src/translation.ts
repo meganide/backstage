@@ -25,11 +25,13 @@ export const homeTranslationRef = createTranslationRef({
       title: 'Add new widget to dashboard',
     },
     customHomepageButtons: {
-      edit: 'Edit',
-      restoreDefaults: 'Restore defaults',
+      customize: 'Customize',
+      restoreDefaults: 'Restore to default',
       clearAll: 'Clear all',
       addWidget: 'Add widget',
       save: 'Save',
+      actions: 'Actions',
+      cancel: 'Cancel',
     },
     customHomepage: {
       noWidgets: "No widgets added. Start by clicking the 'Add widget' button.",
